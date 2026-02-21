@@ -1,0 +1,10 @@
+{
+  "prefix": "/",
+  "usePrefix": {
+    "enable": true,                    // Global prefix requirement
+    "adminUsePrefix": {
+      "enable": true,                  // Admin prefix requirement
+      "specificUids": []               // Specific users who need prefix
+    }
+  }
+}
