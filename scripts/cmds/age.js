@@ -2,7 +2,7 @@ module.exports = {
   config: {
     name: "age",
     version: "4.0",
-    author: "ALVI-BOSS",
+    author: "𝐌𝐝 𝐌𝐚𝐦𝐮𝐧 𝐈𝐬𝐥𝐚𝐦",
     hasPermission: 0,
     commandCategory: "utility",
     cooldowns: 5,
@@ -93,7 +93,7 @@ module.exports = {
 ➥ ${totalHours} 𝐇𝐨𝐮𝐫𝐬
 ══════════════════
 
-👑 𝐂𝐫𝐞𝐚𝐭𝐞𝐝 𝐛𝐲: 𝐀𝐥𝐯𝐢-𝐁𝐨𝐬𝐬`,
+👑 𝐂𝐫𝐞𝐚𝐭𝐞𝐝 𝐛𝐲:𝐌𝐚𝐦𝐮𝐧-𝐁𝐨𝐬𝐬`,
         attachment: fs.createReadStream(avatarPath)
       };
 
