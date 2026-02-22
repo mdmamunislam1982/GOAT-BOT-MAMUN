@@ -12,7 +12,7 @@
   "antiInbox": false,
   "language": "en",
   "notesLanguage": "change language using ISO 639-1 code",
-  "nickNameBot": "♡┋Տʜɪᴢᴜᴋꫝㅤᥫ᭡",
+  "nickNameBot": "♡┋𝐌𝐝 𝐌𝐚𝐦𝐮𝐧 𝐈𝐬𝐥𝐚𝐦",
   "prefix": "/",
   "adminOnly": {
     "enable": false,
@@ -32,7 +32,7 @@
     "enable": false,
     "whiteListIds": [
       "100083039411474",
-      "100082607436864"
+      ""
     ],
     "notes": "If enabled, only IDs in whiteListIds can use the bot."
   },
